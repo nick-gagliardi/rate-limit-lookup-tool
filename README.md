@@ -1,4 +1,4 @@
-# 🚀 Real-Time Rate Limit Control Panel
+# Real-Time Rate Limit Control Panel
 
 ## Transforming Operational Constraints into Developer Confidence
 
@@ -8,7 +8,7 @@ Our goal is to eliminate search time, prevent unexpected limits, and provide a s
 
 ---
 
-## ✨ Key Features & Developer Benefits
+## Key Features & Developer Benefits
 
 | Feature | Developer Benefit |
 | :--- | :--- |
@@ -19,7 +19,7 @@ Our goal is to eliminate search time, prevent unexpected limits, and provide a s
 
 ---
 
-## 🏗️ Technical Foundation
+## Technical Foundation
 
 ### Dynamic Data Structure: Scalable and Accurate
 
