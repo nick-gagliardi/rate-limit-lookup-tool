@@ -1,0 +1,22 @@
+@import "tailwindcss"; 
+
+/* Custom theme colors for a Gemini-like dark aesthetic */
+body {
+    /* Main background: A deep, charcoal-like gray */
+    background-color: #202124; 
+    color: #E8EAED; /* Light gray/near-white text */
+    font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
+/* Optional: Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #5F6368; 
+  border-radius: 4px;
+}
+::-webkit-scrollbar-track {
+  background-color: #202124; 
+}
